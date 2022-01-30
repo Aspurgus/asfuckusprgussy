@@ -1,0 +1,45 @@
+CURNELTY WORKING:
+
+-----
+BITS:
+    -Entity
+        Aspr!
+            A small player w variations that follows u around and tameable w Alliums or [new item]
+            will ride on ur sholder
+            Spawns in flower forests
+            can sit on ground
+            Drops broken flower crown if Terra Incognita
+        Cloud
+            Spawns in snowy mountains and Shattered savannah above y=100
+            10 variations
+            Neutral, can be leashed
+            smacking savannah variations will cause lightning storms and the cloud will shock you
+            smacking snowy clouds will start snow and lightning and youl get slowness and slowly freeze to death
+            clouds will display rain particles when leashed and water crops below it
+            Drops Soulless Cloud sometimes
+        Sleeping Boulder
+            Mossy Rock occasionaly spawns in forests
+            Large and has a creeper face
+            Neutral
+            Smacking it will make it explode [very large]
+            Give it flowers! itll wear it on it's head :D
+            Can't be moved forcefully
+            Drops Boulder Moss, Boulder Stone, and Dormant Core
+    -Block
+        Boulder Stone
+        Boulder Moss Block
+    -Foliage
+        Jufray Blossom
+            Strange fruiting flower
+            Seed heads and Leaflets grow on Jufray Vines
+    -Item
+        Boulder Moss
+        Dormant Core
+
+    -Food
+        Puffy Rice
+
+    -Drink
+        Rainwater
+        Morning Dew
+        Jufray Nectar
