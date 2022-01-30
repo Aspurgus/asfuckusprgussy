@@ -38,7 +38,7 @@ BITS:
 
     -Food
         Puffy Rice
-
+        Fried Cloud
     -Drink
         Rainwater
         Morning Dew
