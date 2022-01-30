@@ -35,10 +35,10 @@ BITS:
     -Item
         Boulder Moss
         Dormant Core
-
     -Food
         Puffy Rice
         Fried Cloud
+        Jawbreaker
     -Drink
         Rainwater
         Morning Dew
